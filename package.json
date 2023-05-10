@@ -18,6 +18,7 @@
     "url": "https://github.com/Vladislavv99/js-practise/issues"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
